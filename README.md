@@ -26,13 +26,14 @@
 
 ### 🧪 Featured Projects
 
-- 📊 [**Google Ecommerce Analysis**](https://github.com/your-username/ecommerce-analysis) — 1M+ rows analyzed in SQL, visualized in Tableau  
-- 🎯 [**RFM Customer Segmentation**](https://github.com/your-username/rfm-analysis) — RFM modeling in Python for targeted marketing  
-- 🔬 [**Prostate Cancer Drug Factorial Study**](https://github.com/your-username/ggDoE-study) — Experimental design using `ggDoE` in R  
+- 📊 [**Google Ecommerce Analysis**](https://github.com/caseytientruong/SQL-Google-Ecommerce-Analytics-) — 1M+ rows analyzed in SQL, visualized in Tableau  
+- 🎯 [**RFM Customer Segmentation**](https://github.com/caseytientruong/Python-RFM-Analysis) — RFM modeling in Python for targeted marketing
+- 💰 [**Sales Analytics**](https://github.com/caseytientruong/PowerBI-Adventure-Works-Analytics) - Evaluate the sales performance in PowerBI
+- 🔬 [**Prostate Cancer Drug Factorial Study**](https://github.com/caseytientruong/R-Prostate-Cancer-Drugs-Analysis) — Experimental design using `ggDoE` in R  
 
 ### ✍️ Blog Posts
-- 📺 [**A Deeper Look Into the Top Entertainment Streaming Services: Are We on the Verge of a Decline in TV?](https://ucladatares.medium.com/a-deeper-look-into-the-top-entertainment-streaming-services-are-we-on-the-verge-of-a-decline-in-tv-a67338aab53c)
-- 🎬 [**The Success of Movies at the Oscars: Box Office and Reviews](https://ucladatares.medium.com/the-success-of-movies-at-the-oscars-box-office-and-reviews-e33e5059ea40)
+- 📺 [**A Deeper Look Into the Top Entertainment Streaming Services: Are We on the Verge of a Decline in TV?**](https://ucladatares.medium.com/a-deeper-look-into-the-top-entertainment-streaming-services-are-we-on-the-verge-of-a-decline-in-tv-a67338aab53c)
+- 🎬 [**The Success of Movies at the Oscars: Box Office and Reviews**](https://ucladatares.medium.com/the-success-of-movies-at-the-oscars-box-office-and-reviews-e33e5059ea40)
 ---
 
 ### 📬 Connect with Me
