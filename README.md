@@ -15,7 +15,7 @@
 - **B.S. Statistics & Data Science** — UCLA, Class of 2023  
 
 💼 **Work Highlights**  
-- Relatiobship Banker @ Bank of America  
+- Relationship Banker @ Bank of America  
 - Data Research Assistant @ UCLA Health  
 - Data Analyst Intern @ Intuitive Surgical and EVITARUS  
 
